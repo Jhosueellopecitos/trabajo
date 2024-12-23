@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.random-number-container {
+    margin-top: 20px;
+}
+
+.number-item {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#numberbutton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
